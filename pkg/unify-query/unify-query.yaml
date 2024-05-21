@@ -26,6 +26,12 @@ victoria_metrics:
   code: bkmonitorv3
   secret:
   token:
+doris:
+  username: root
+  password: 
+  host: 127.0.0.1
+  port: 9030
+  database:
 influxdb:
   ping:
     count: 3
